@@ -4,9 +4,6 @@ var links = {
       "title": "Search", 
       "links" : [ 
         {"title":"Google", "url" : "http://www.google.com"},
-        {"title":"Bing", "url" : "http://www.bing.com"},
-        {"title":"Yahoo", "url" : "http://www.yahoo.com"},
-        {"title":"Ask", "url": "http://www.ask.com"},
         {"title":"Duckduckgo", "url" : "http://www.duckduckgo.com"}
       ]},
       { 
