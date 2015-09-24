@@ -1,92 +1,86 @@
 var links = {
-  "Test": [
+  "Top": [
        {
       "title": "Search", 
       "links" : [ 
-        {"title":"Google", "url" : "http://www.google.com"},
-        {"title":"Duckduckgo", "url" : "http://www.duckduckgo.com"}
+        {"title":"Google", "url" : "https://www.google.com"},
+        {"title":"Duckduckgo", "url" : "https://www.duckduckgo.com"}
       ]},
       { 
       "title": "Knowledge", 
       "links" : [ 
-        {"title":"Wikipedia", "url" : "http://www.wikipedia.org"},
-        {"title":"Khan Academy", "url" : "http://www.khanacademy.org"},
-        {"title":"Gutenberg", "url" : "http://www.gutenberg.org"}, 
-        {"title":"Archive", "url" : "http://www.archive.org"},
-        {"title":"TED","url":"http://www.ted.com"}
+        {"title":"Wikipedia", "url" : "https://www.wikipedia.org"},
+        {"title":"Khan Academy", "url" : "https://www.khanacademy.org"},
+        {"title":"Gutenberg", "url" : "https://www.gutenberg.org"}, 
+        {"title":"Archive", "url" : "https://www.archive.org"},
+        {"title":"TED","url":"https://www.ted.com"}
       ]},
       {
       "title": "News", 
       "links" : [
-        {"title":"Yahoo News", "url" : "http://news.yahoo.com"},
-        {"title":"Google News", "url" : "http://news.google.com"},
-        {"title":"Huffington Post", "url" : "http://huffingtonpost.com"},
-        {"title":"NY Times", "url" : "http://www.nytimes.com"},
-        {"title":"CNN", "url" : "http://www.cnn.com"}
+        {"title":"Google News", "url" : "https://news.google.com"},
+        {"title":"NY Times", "url" : "https://www.nytimes.com"}
       ]},
       {
       "title": "Music", 
       "links" : [ 
-        {"title":"Pandora", "url" : "http://www.pandora.com"},
-        {"title":"Rdio", "url" : "http://www.rdio.com/"},
-        {"title":"Google Play", "url" : "http://play.google.com"},
-        {"title":"SoundCloud", "url" : "http://www.soundcloud.com"},
-        {"title":"Spotify", "url" : "http://www.spotify.com"}
+        {"title":"Pandora", "url" : "https://www.pandora.com"},
+        {"title":"Rdio", "url" : "https://www.rdio.com/"},
+        {"title":"Google Play", "url" : "https://play.google.com"},
+        {"title":"SoundCloud", "url" : "https://www.soundcloud.com"},
+        {"title":"Spotify", "url" : "https://www.spotify.com"}
       ]},
        {
       "title": "Networks", 
       "links" : [
-        {"title":"Facebook", "url" : "http://www.facebook.com"},
-        {"title":"Twitter", "url" : "http://www.twitter.com"},
-        {"title":"LinkedIn", "url" : "http://www.linkedIn.com"},
-        {"title":"Pinterest", "url" : "http://www.pinterest.com"},
-        {"title":"Google+", "url":"http://plus.google.com"}
+        {"title":"Facebook", "url" : "https://www.facebook.com"},
+        {"title":"Twitter", "url" : "https://www.twitter.com"},
+        {"title":"Google+", "url":"https://plus.google.com"}
       ]},
        {
       "title": "Video", 
       "links" : [
-        {"title":"YouTube", "url" : "http://www.youtube.com"},
-        {"title":"NetFlix", "url" : "http://www.netflix.com"},
-        {"title":"Vimeo", "url" : "http://www.vimeo.com"},
-        {"title":"Twitch", "url" : "http://www.twitch.tv"},
-        {"title":"Daily Motion", "url":"http://www.dailymotion.com"}
+        {"title":"YouTube", "url" : "https://www.youtube.com"},
+        {"title":"NetFlix", "url" : "https://www.netflix.com"},
+	{"title":"Hulu", "url" : "https://www.hulu.com"},
+        {"title":"Twitch", "url" : "https://www.twitch.tv"}
       ]}],
     "Games": [
        {
       "title": "Stores", 
       "links" : [ 
-        {"title":"Steam", "url" : "http://www.steampowered.com"},
-        {"title":"itch.io", "url" : "http://www.itch.io"},
-        {"title":"Desura", "url" : "http://www.desura.com"},
+        {"title":"Steam", "url" : "https://www.steampowered.com"},
+        {"title":"itch.io", "url" : "https://www.itch.io"},
+        {"title":"Desura", "url" : "https://www.desura.com"},
         {"title":"App Store", "url": "https://itunes.apple.com/us/genre/ios-games/id6014?mt=8"},
         {"title":"Play Store", "url" : "https://play.google.com/store/apps/category/GAME"}
       ]},
       { 
       "title": "News", 
       "links" : [ 
-        {"title":"IGN", "url" : "http://www.ign.com"},
-        {"title":"GameFAQs", "url" : "http://www.gamefaqs.com"},
-        {"title":"GameSpot", "url" : "http://www.gamespot.com/"}, 
-        {"title":"Kotaku", "url" : "http://kotaku.com/"},
-        {"title":"N4G","url":"http://n4g.com/"}
+        {"title":"IGN", "url" : "https://www.ign.com"},
+        {"title":"GameFAQs", "url" : "https://www.gamefaqs.com"},
+        {"title":"GameSpot", "url" : "https://www.gamespot.com/"}, 
+        {"title":"Kotaku", "url" : "https://kotaku.com/"},
+        {"title":"N4G","url":"https://n4g.com/"}
       ]},
       {
       "title": "Lets Play", 
       "links" : [
-        {"title":"Twitch", "url" : "http://www.twitch.tv"},
-        {"title":"/r/letsplay", "url" : "http://www.reddit.com/r/letsplay/"},
-        {"title":"LPArchive", "url" : "http://www.lparchive.org"},
+        {"title":"Twitch", "url" : "https://www.twitch.tv"},
+        {"title":"/r/letsplay", "url" : "https://www.reddit.com/r/letsplay/"},
+        {"title":"LPArchive", "url" : "https://www.lparchive.org"},
         {"title":"Youtube", "url" : "https://www.youtube.com/results?search_query=letsplay"},
         {"title":"Twitter", "url" : "https://twitter.com/search?q=%23letsplay&src=typd"}
       ]},
       {
       "title": "Rating", 
       "links" : [ 
-        {"title":"MetaCritic", "url" : "http://www.metacritic.com/game"},
-        {"title":"IGN", "url" : "http://www.ign.com"},
-        {"title":"GameSpot", "url" : "http://www.gamespot.com"},
-        {"title":"JoyStiq", "url" : "http://www.joystiq.com"},
-        {"title":"GameRankins", "url" : "http://www.gamerankins.com"}
+        {"title":"MetaCritic", "url" : "https://www.metacritic.com/game"},
+        {"title":"IGN", "url" : "https://www.ign.com"},
+        {"title":"GameSpot", "url" : "https://www.gamespot.com"},
+        {"title":"JoyStiq", "url" : "https://www.joystiq.com"},
+        {"title":"GameRankins", "url" : "https://www.gamerankins.com"}
       ]},
        {
       "title": "Development", 
@@ -94,81 +88,80 @@ var links = {
         {"title":"Portals", "url" : "https://github.com/ellisonleao/magictools#blogs-and-portals"},
         {"title":"Tools", "url" : "https://github.com/ellisonleao/magictools"},
         {"title":"Assets", "url" : "https://github.com/ellisonleao/magictools#assetsplaceholders"},
-        {"title":"Jams", "url" : "http://compohub.net"},
+        {"title":"Jams", "url" : "https://compohub.net"},
         {"title":"Books", "url":"https://github.com/ellisonleao/magictools#books"}
       ]},
        {
       "title": "Web Games", 
       "links" : [
-        {"title":"Newgrounds", "url" : "http://www.newgrounds.com"},
-        {"title":"Kongregate", "url" : "http://www.kongregate.com"},
-        {"title":"Adult Swim", "url" : "http://games.adultswim.com"},
-        {"title":"Armor Games", "url" : "http://www.armorgames.com"},
-        {"title":"Addicting Games", "url":"http://www.addictinggames.com"}
+        {"title":"Newgrounds", "url" : "https://www.newgrounds.com"},
+        {"title":"Kongregate", "url" : "https://www.kongregate.com"},
+        {"title":"Adult Swim", "url" : "https://games.adultswim.com"},
+        {"title":"Armor Games", "url" : "https://www.armorgames.com"},
+        {"title":"Addicting Games", "url":"https://www.addictinggames.com"}
       ]}],
     "Music": [
        {
       "title": "Underground", 
       "links" : [ 
-        {"title": "SNDTST", "url" : "http://www.sndtst.com"},
+        {"title": "SNDTST", "url" : "https://www.sndtst.com"},
         {"title":"CmdFM", "url" : "https://cmd.fm"},
-        {"title":"SomaFM", "url" : "http://somafm.com/"},
-        {"title":"Cratestream", "url": "http://www.cratestream.com/listen/"},
-        {"title":"Earbits", "url" : "http://www.earbits.com/"}
+        {"title":"SomaFM", "url" : "https://somafm.com/"},
+        {"title":"Cratestream", "url": "https://www.cratestream.com/listen/"},
+        {"title":"Earbits", "url" : "https://www.earbits.com/"}
       ]},
       { 
       "title": "Hype", 
       "links" : [ 
-        {"title":"HypeM", "url" : "http://hypem.com/"},
-        {"title":"Upbeat", "url" : "http://www.upbeatapp.com/"},
-        {"title":"DropClub", "url" :"http://thedrop.club/"},
-        {"title":"Last.fm", "url" : "http://www.last.fm/charts"},
-        {"title":"on Twitter","url":"http://hypem.com/twitter/popular"}
+        {"title":"HypeM", "url" : "https://hypem.com/"},
+        {"title":"Upbeat", "url" : "https://www.upbeatapp.com/"},
+        {"title":"DropClub", "url" :"https://thedrop.club/"},
+        {"title":"Last.fm", "url" : "https://www.last.fm/charts"},
+        {"title":"on Twitter","url":"https://hypem.com/twitter/popular"}
       ]},
       {
       "title": "Discovery", 
       "links" : [
         {"title":"SpicyMocha", "url" : "https://spicymocha.com/explore/starred_lists"},
-        {"title":"Musicovery", "url" : "http://musicovery.com/"},
+        {"title":"Musicovery", "url" : "https://musicovery.com/"},
         {"title":"Spotify AE", "url" : "https://artistexplorer.spotify.com/"},
-        {"title":"Liveplasma", "url" : "http://www.liveplasma.com"}, 
-        {"title":"MusicMap", "url" : "http://www.music-map.com/"}
+        {"title":"Liveplasma", "url" : "https://www.liveplasma.com"}, 
+        {"title":"MusicMap", "url" : "https://www.music-map.com/"}
       ]},
       {
       "title": "Streaming", 
       "links" : [
-        {"title":"Pandora", "url" : "http://www.pandora.com"},
-        {"title":"Yahoo! Music", "url" : "http://www.music.yahoo.com"},
-        {"title":"Google Play", "url" : "http://play.google.com"},
-        {"title":"SoundCloud", "url" : "http://www.soundcloud.com"},
-        {"title":"Spotify", "url" : "http://www.spotify.com"}
+        {"title":"Pandora", "url" : "https://www.pandora.com"},
+        {"title":"Google Play", "url" : "https://play.google.com"},
+        {"title":"SoundCloud", "url" : "https://www.soundcloud.com"},
+        {"title":"Spotify", "url" : "https://www.spotify.com"}
       ]},
        {
       "title": "Stores", 
       "links" : [
-        {"title":"Bandcamp", "url" : "http://www.bandcamp.com/"},
-        {"title":"Amazon", "url" : "http://www.amazon.com/MP3-Music-Download/b?node=163856011"},
+        {"title":"Bandcamp", "url" : "https://www.bandcamp.com/"},
+        {"title":"Amazon", "url" : "https://www.amazon.com/MP3-Music-Download/b?node=163856011"},
         {"title":"Beatport", "url" : "https://www.beatport.com/"},
         {"title":"Bleep", "url" : "https://bleep.com/"},
-        {"title":"Napster", "url":"http://napster.com/"}
+        {"title":"Napster", "url":"https://napster.com/"}
       ]},
        {
       "title": "Free", 
       "links" : [
-        {"title":"Bandcamp", "url" : "http://www.bandcamp.com/"},
-        {"title":"FMA", "url" : "http://freemusicarchive.org/"},
+        {"title":"Bandcamp", "url" : "https://www.bandcamp.com/"},
+        {"title":"FMA", "url" : "https://freemusicarchive.org/"},
         {"title":"Jamendo", "url" : "https://www.jamendo.com/en/welcome"},
-        {"title":"Netlabels", "url" : "http://www.clongclongmoo.org/labels/"},
-        {"title":"Magnatune", "url":"http://magnatune.com/genres/ambient/"}
+        {"title":"Netlabels", "url" : "https://www.clongclongmoo.org/labels/"},
+        {"title":"Magnatune", "url":"https://magnatune.com/genres/ambient/"}
       ]}],
     "Tools": [
        {
       "title": "Documents", 
       "links" : [ 
-        {"title": "Google Docs", "url" : "http://docs.google.com/"},
+        {"title": "Google Docs", "url" : "https://docs.google.com/"},
         {"title":"fiddle.md", "url" : "https://fiddle.md"},
-        {"title":"Draftin", "url" : "http://www.draftin.com"},
-        {"title":"Dillinger", "url": "http://dillinger.io/"},
+        {"title":"Draftin", "url" : "https://www.draftin.com"},
+        {"title":"Dillinger", "url": "https://dillinger.io/"},
         {"title":"Etherpad", "url" : "https://beta.etherpad.org/"}
       ]},
       { 
@@ -176,36 +169,36 @@ var links = {
       "links" : [ 
         {"title":"GitBook", "url" : "https://www.gitbook.com/"},
         {"title":"LeanPub", "url" : "https://leanpub.com/"},
-        {"title":"BitBooks", "url" : "http://bitbooks.cc/"}, 
-        {"title":"Blurb", "url" : "http://www.blurb.com"},
+        {"title":"BitBooks", "url" : "https://bitbooks.cc/"}, 
+        {"title":"Blurb", "url" : "https://www.blurb.com"},
         {"title":"Lulu","url":"https://www.lulu.com/"}
       ]},
       {
       "title": "Graphics", 
       "links" : [
         {"title":"Color", "url" : "https://color.adobe.com/"},
-        {"title":"Piskel", "url" : "http://www.piskelapp.com"},
-        {"title":"Pixelart", "url" : "http://www.pixilart.net/"},
-        {"title":"SculptGL", "url" : "http://stephaneginier.com/sculptgl/"},
-        {"title":"Photoshop", "url" : "http://www.photoshop.com/tools"}
+        {"title":"Piskel", "url" : "https://www.piskelapp.com"},
+        {"title":"Pixelart", "url" : "https://www.pixilart.net/"},
+        {"title":"SculptGL", "url" : "https://stephaneginier.com/sculptgl/"},
+        {"title":"Photoshop", "url" : "https://www.photoshop.com/tools"}
       ]},
       {
       "title": "Relax", 
       "links" : [ 
-        {"title":"Calm", "url" : "http://www.calm.com/"},
-        {"title":"Rainymood", "url" : "http://www.rainymood.com/"},
+        {"title":"Calm", "url" : "https://www.calm.com/"},
+        {"title":"Rainymood", "url" : "https://www.rainymood.com/"},
         {"title":"Coffitivity", "url" : "https://coffitivity.com/"},
-        {"title":"MyNoise", "url" : "http://mynoise.net/noiseMachines.php"},
-        {"title":"Noisli", "url" : "http://www.noisli.com/"}
+        {"title":"MyNoise", "url" : "https://mynoise.net/noiseMachines.php"},
+        {"title":"Noisli", "url" : "https://www.noisli.com/"}
       ]},
        {
       "title": "Code Sketches", 
       "links" : [
-        {"title":"Codepen", "url" : "http://codepen.io/"},
-        {"title":"JsFiddle", "url" : "http://jsfiddle.net/"},
-        {"title":"REPLIt", "url" : "http://repl.it/languages"},
-        {"title":"OpenProcessing", "url" : "http://www.openprocessing.org/"},
-        {"title":"NatureOfCode", "url":"http://natureofcode.com/"}
+        {"title":"Codepen", "url" : "https://codepen.io/"},
+        {"title":"JsFiddle", "url" : "https://jsfiddle.net/"},
+        {"title":"REPLIt", "url" : "https://repl.it/languages"},
+        {"title":"OpenProcessing", "url" : "https://www.openprocessing.org/"},
+        {"title":"NatureOfCode", "url":"https://natureofcode.com/"}
       ]},
        {
       "title": "Reading", 
@@ -213,71 +206,70 @@ var links = {
         {"title":"Instapaper", "url" : "https://www.instapaper.com/"},
         {"title":"GetPocket", "url" : "https://getpocket.com/"},
         {"title":"Flipboard", "url" : "https://flipboard.com/"},
-        {"title":"ZapReader", "url" : "http://www.zapreader.com/"},
-        {"title":"Spreeder", "url":"http://www.spreeder.com/"}
+        {"title":"ZapReader", "url" : "https://www.zapreader.com/"},
+        {"title":"Spreeder", "url":"https://www.spreeder.com/"}
       ]}],
       "Travel": [
        {
       "title": "Maps", 
       "links" : [ 
         {"title":"Google Maps", "url" : "https://maps.google.com/"},
-        {"title":"OpenStreetMap", "url" : "http://www.openstreetmap.org/"},
-        {"title":"OpenTopoMap", "url" : "http://opentopomap.org/"},
-        {"title":"OpenMaps.eu", "url":"http://openmaps.eu/"},
-        {"title":"OpenCycleMap", "url" : "http://www.opencyclemap.org"}
+        {"title":"OpenStreetMap", "url" : "https://www.openstreetmap.org/"},
+        {"title":"OpenTopoMap", "url" : "https://opentopomap.org/"},
+        {"title":"OpenMaps.eu", "url":"https://openmaps.eu/"},
+        {"title":"OpenCycleMap", "url" : "https://www.opencyclemap.org"}
       ]},
       { 
       "title": "Nomad", 
       "links" : [ 
-        {"title":"NomadList", "url" : "http://www.nomadlist.com"},
-        {"title":"Nomadler", "url" : "http://www.nomadler.com"},
+        {"title":"NomadList", "url" : "https://www.nomadlist.com"},
+        {"title":"Nomadler", "url" : "https://www.nomadler.com"},
         {"title":"WorkFrom", "url" : "https://workfrom.co"},
         {"title":"AirBnB", "url" : "https://www.airbnb.com/"},
-        {"title":"on Reddit", "url" : "http://www.reddit.com/r/telecommuting/"},
+        {"title":"on Reddit", "url" : "https://www.reddit.com/r/telecommuting/"},
       ]},
       {
       "title": "Stories", 
       "links" : [
-        {"title":"Maptia", "url" : "http://www.maptia.com"},
-        {"title":"Travelistly", "url" : "http://www.travelistly.com/tv"},
+        {"title":"Maptia", "url" : "https://www.maptia.com"},
+        {"title":"Travelistly", "url" : "https://www.travelistly.com/tv"},
         {"title":"Medium", "url" : "https://medium.com/on-travel"},
-        {"title":"Tumblr", "url" : "http://www.tumblr.com/search/travel"},
-        {"title":"Fathoma", "url" : "http://fathomaway.com"}
+        {"title":"Fathoma", "url" : "https://fathomaway.com"}
       ]},
       {
       "title": "Info", 
       "links" : [
-        {"title":"Wikivoyage", "url" : "http://www.wikivoyage.org/"},
-        {"title":"Lonely Planet", "url":"http://www.lonelyplanet.com/"},
-        {"title":"Rough Guides", "url":"http://www.roughguides.com"},
-        {"title":"TravelScope", "url":"http://www.markuslerner.com/travelscope/"},
-        {"title":"On Reddit", "url":"http://www.reddit.com/r/travel"}
+        {"title":"Wikivoyage", "url" : "https://www.wikivoyage.org/"},
+        {"title":"Lonely Planet", "url":"https://www.lonelyplanet.com/"},
+        {"title":"Rough Guides", "url":"https://www.roughguides.com"},
+        {"title":"TravelScope", "url":"https://www.markuslerner.com/travelscope/"},
+        {"title":"On Reddit", "url":"https://www.reddit.com/r/travel"}
       ]},
        {
       "title": "Booking", 
       "links" : [
-        {"title":"Booking.com", "url" : "http://www.booking.com/"},
-        {"title":"HostelWorld", "url" : "http://www.hostelworld.com"},
-        {"title":"HostelBookers", "url" : "http://www.hostelbookers.com"},
-        {"title":"LastMinute", "url" : "http://www.lastminute.com"},
+        {"title":"Booking.com", "url" : "https://www.booking.com/"},
+        {"title":"HostelWorld", "url" : "https://www.hostelworld.com"},
+        {"title":"HostelBookers", "url" : "https://www.hostelbookers.com"},
+        {"title":"LastMinute", "url" : "https://www.lastminute.com"},
       ]},
        {
       "title": "Reviews", 
       "links" : [
-        {"title":"Tripadvisor", "url" : "http://www.tripadvisor.com"},
-        {"title":"SpottedByLocals", "url" : "http://www.spottedbylocals.com"},
-        {"title":"Lonely Planet", "url":"http://www.lonelyplanet.com/"},
+        {"title":"Tripadvisor", "url" : "https://www.tripadvisor.com"},
+        {"title":"SpottedByLocals", "url" : "https://www.spottedbylocals.com"},
+        {"title":"Lonely Planet", "url":"https://www.lonelyplanet.com/"},
         {"title":"Nuu.in", "url":"https://nuu.in/"}
       ]}],
       "Movies": [
        {
       "title": "Documentaries", 
       "links" : [ 
-        {"title":"DocumentaryAddict", "url" : "http://documentaryaddict.com/"},
-        {"title":"TopDocuFilms", "url" : "http://topdocumentaryfilms.com/"},
-        {"title":"DocumentaryHeaven", "url" : "http://documentaryheaven.com/"},
-        {"title":"DocumentaryStorm", "url":"http://documentarystorm.com/"},
-        {"title":"on Reddit", "url" : "http://www.reddit.com/r/Documentaries/"}
+        {"title":"DocumentaryAddict", "url" : "https://documentaryaddict.com/"},
+        {"title":"TopDocuFilms", "url" : "https://topdocumentaryfilms.com/"},
+        {"title":"DocumentaryHeaven", "url" : "https://documentaryheaven.com/"},
+        {"title":"DocumentaryStorm", "url":"https://documentarystorm.com/"},
+        {"title":"on Reddit", "url" : "https://www.reddit.com/r/Documentaries/"}
       ]},
       { 
       "title": "Archives", 
@@ -285,98 +277,85 @@ var links = {
         {"title":"archive.org", "url" : "https://archive.org/details/moviesandfilms"},
         {"title":"NFB", "url" : "https://www.nfb.ca/"},
         {"title":"spuul", "url" : "https://spuul.com/"},
-        {"title":"watchseries", "url":"http://watchseries.ag"},
+        {"title":"watchseries", "url":"https://watchseries.ag"},
         {"title":"ShortOfTheWeek", "url":"https://www.shortoftheweek.com/"}
       ]},
              {
       "title": "Web Video", 
       "links" : [
-        {"title":"YouTube", "url" : "http://www.youtube.com"},
-        {"title":"NetFlix", "url" : "http://www.netflix.com"},
-        {"title":"Vimeo", "url" : "http://www.vimeo.com"},
-        {"title":"Twitch", "url" : "http://www.twitch.tv"},
-        {"title":"Daily Motion", "url":"http://www.dailymotion.com"}
+        {"title":"YouTube", "url" : "https://www.youtube.com"},
+        {"title":"NetFlix", "url" : "https://www.netflix.com"},
+	{"title":"Hulu", "url" : "https://www.hulu.com"},
+        {"title":"Twitch", "url" : "https://www.twitch.tv"}
       ]},
       {
       "title": "You Stream", 
       "links" : [
-        {"title":"Twitch.tv", "url" : "http://www.twitch.tv"},
-        {"title":"hitbox.tv", "url" : "http://www.hitbox.tv"},
-        {"title":"ustream", "url":"http://www.ustream.tv/"},
-        {"title":"Azubu", "url":"http://www.azubu.tv/"},
+        {"title":"Twitch.tv", "url" : "https://www.twitch.tv"},
+        {"title":"hitbox.tv", "url" : "https://www.hitbox.tv"},
+        {"title":"ustream", "url":"https://www.ustream.tv/"},
+        {"title":"Azubu", "url":"https://www.azubu.tv/"},
         {"title":"LiveCoding","url":"https://www.livecoding.tv/"}
       ]},
        {
       "title": "Reviews", 
       "links" : [
-        {"title":"IMDb", "url" : "http://www.imdb.com/"},
-        {"title":"Metacritic", "url" : "http://www.metacritic.com/movie/"},
-        {"title":"Screenrant", "url" : "http://screenrant.com/"},
-        {"title":"Screendaily", "url" : "http://www.screendaily.com/reviews/"},
-        {"title":"NYTimes", "url":"http://www.nytimes.com/pages/movies/index.html"}
+        {"title":"IMDb", "url" : "https://www.imdb.com/"},
+        {"title":"Metacritic", "url" : "https://www.metacritic.com/movie/"},
+        {"title":"Screenrant", "url" : "https://screenrant.com/"},
+        {"title":"Screendaily", "url" : "https://www.screendaily.com/reviews/"},
+        {"title":"NYTimes", "url":"https://www.nytimes.com/pages/movies/index.html"}
       ]},
        {
       "title": "On Demand", 
       "links" : [
-        {"title":"Amazon Video", "url" : "http://www.amazon.com/Instant-Video/b/ref=topnav_storetab_atv?_encoding=UTF8&node=2858778011/"},
+        {"title":"Amazon Video", "url" : "https://www.amazon.com/Instant-Video/b/ref=topnav_storetab_atv?_encoding=UTF8&node=2858778011/"},
         {"title":"Netflix", "url" : "https://www.netflix.com/"},
         {"title":"Google Play", "url": "https://play.google.com/store/movies"},
-        {"title":"Hulu","url":"http://www.hulu.com/"}
+        {"title":"Hulu","url":"https://www.hulu.com/"}
       ]}],
     "Fun": [
        {
       "title": "Fun Sites", 
       "links" : [ 
-        {"title":"theCHIVE", "url" : "http://www.thechive.com/"},
-        {"title":"Cracked", "url" : "http://www.cracked.com/"},
-        {"title":"Break", "url" : "http://www.break.com"},
-        {"title":"Funny or Die", "url": "http://www.funnyordie.com/"},
-        {"title":"9GAG", "url" : "http://www.9gag.com"}
+        {"title":"Reddit", "url" : "https://www.reddit.com/"},
+        {"title":"Cracked", "url" : "https://www.cracked.com/"},
       ]},
       { 
       "title": "Comics", 
       "links" : [ 
-        {"title":"xkcd", "url" : "http://www.xkcd.com"},
-        {"title":"SMBC", "url" : "http://www.smbc-comics.com"},
-        {"title":"Oatmeal", "url" : "http://www.theoatmeal.com/comics"}, 
-        {"title":"PhDComics", "url" : "http://www.phdcomics.com/comics.php"},
-        {"title":"Poorly Drawn Lines","url":"http://poorlydrawnlines.com/comic/"}
+        {"title":"xkcd", "url" : "https://www.xkcd.com"},
+        {"title":"SMBC", "url" : "https://www.smbc-comics.com"},
+        {"title":"Oatmeal", "url" : "https://www.theoatmeal.com/comics"}, 
+        {"title":"PhDComics", "url" : "https://www.phdcomics.com/comics.php"},
+        {"title":"Poorly Drawn Lines","url":"https://poorlydrawnlines.com/comic/"}
       ]},
       {
       "title": "Reddit", 
       "links" : [
-        {"title":"/r/funny", "url" : "http://www.reddit.com/r/funny"},
-        {"title":"/r/reactiongifs", "url" : "http://www.reddit.com/r/reactiongifs/"},
-        {"title":"/r/humor", "url" : "http://www.reddit.com/r/humor"},
-        {"title":"/r/jokes", "url" : "http://www.reddit.com/r/jokes"},
-        {"title":"/r/lol", "url" : "http://www.reddit.com/r/lol"}
-      ]},
-      {
-      "title": "Meme", 
-      "links" : [ 
-        {"title":"Quick Meme", "url" : "http://www.quickmeme.com/"},
-        {"title":"Meme Center", "url" : "http://www.memecenter.com/top/daily"},
-        {"title":"Know Your Meme", "url" : "http://www.knowyourmeme.com"},
-        {"title":"Meme Generator", "url" : "https://imgflip.com/memegenerator"},
-        {"title":"9GAG Meme", "url" : "http://9gag.com/meme"}
+        {"title":"/r/funny", "url" : "https://www.reddit.com/r/funny"},
+        {"title":"/r/reactiongifs", "url" : "https://www.reddit.com/r/reactiongifs/"},
+        {"title":"/r/humor", "url" : "https://www.reddit.com/r/humor"},
+        {"title":"/r/jokes", "url" : "https://www.reddit.com/r/jokes"},
+        {"title":"/r/lol", "url" : "https://www.reddit.com/r/lol"}
       ]},
        {
       "title": "Fun Projects", 
       "links" : [
-        {"title":"Pointer Pointer", "url" : "http://www.pointerpointer.com/"},
-        {"title":"Eelslap", "url" : "http://eelslap.com/"},
-        {"title":"Corgiorgy", "url" : "http://corgiorgy.com"},
-        {"title":"Falling", "url" : "http://fallingfalling.com"},
+        {"title":"Pointer Pointer", "url" : "https://www.pointerpointer.com/"},
+        {"title":"Eelslap", "url" : "https://eelslap.com/"},
+        {"title":"Corgiorgy", "url" : "https://corgiorgy.com"},
+        {"title":"Falling", "url" : "https://fallingfalling.com"},
         {"title":"Books", "url":"https://github.com/ellisonleao/magictools#books"}
       ]},
        {
       "title": "Web Games", 
       "links" : [
-        {"title":"Newgrounds", "url" : "http://www.newgrounds.com"},
-        {"title":"Kongregate", "url" : "http://www.kongregate.com"},
-        {"title":"Adult Swim", "url" : "http://games.adultswim.com"},
-        {"title":"Armor Games", "url" : "http://www.armorgames.com"},
-        {"title":"Addicting Games", "url":"http://www.addictinggames.com"}
+        {"title":"Newgrounds", "url" : "https://www.newgrounds.com"},
+        {"title":"Kongregate", "url" : "https://www.kongregate.com"},
+        {"title":"Adult Swim", "url" : "https://games.adultswim.com"},
+        {"title":"Armor Games", "url" : "https://www.armorgames.com"},
+        {"title":"Addicting Games", "url":"https://www.addictinggames.com"}
       ]}]
 }
 
